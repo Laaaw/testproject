@@ -1,0 +1,1 @@
+from foo import urls  # this fails in PyCharm, even with project root set to testproject/foo/foo
